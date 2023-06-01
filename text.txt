@@ -1,3 +1,2 @@
 Hello word!
 some text
-some other text
